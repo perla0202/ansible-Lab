@@ -56,12 +56,6 @@ ansible docker -i inventory.ini -m ping
 ansible-playbook -i inventory.ini playbook.yml
 ```
 
-## Captura de pantalla de la ejecución exitosa
-
-![Ejecución exitosa del playbook](CapturaPrueba.png)
-
-## Limpieza
-
 ```bash
 docker compose down
 ```
