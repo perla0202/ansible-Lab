@@ -58,7 +58,7 @@ ansible-playbook -i inventory.ini playbook.yml
 
 ## Captura de pantalla de la ejecución exitosa
 
-![Ejecución exitosa del playbook](captura-playbook.png)
+![Ejecución exitosa del playbook](CapturaPrueba.png)
 
 ## Limpieza
 
